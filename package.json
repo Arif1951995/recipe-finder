@@ -1,6 +1,7 @@
 {
   "name": "recipe-finder",
   "version": "0.1.0",
+  "author": "Arif"
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
